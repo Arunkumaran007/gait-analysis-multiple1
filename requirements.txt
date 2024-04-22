@@ -1,3 +1,4 @@
 flask
 hmm
 hmmlearn
+pandas
